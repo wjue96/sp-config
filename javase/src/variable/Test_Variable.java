@@ -18,7 +18,7 @@ import java.util.Scanner;
 public class Test_Variable {
 	public static void main(String[] args) {
 		method1();//利用FileInputStream读取数据
-		//method2();//利用bufferedInputStream
+		method2();//利用bufferedInputStream
 		//method3();//利用bufferedReader读取
 		//method4();//利用FileOutputStream字节输出
 		method5();//文件复制
