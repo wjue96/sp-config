@@ -13,6 +13,7 @@ public class Test_Arrays {
 	public static void main(String[] args) {
 		//method();//测试sort
 		method1();
+		System.out.println("11111");
 	}
 
 	private static void method1() {
