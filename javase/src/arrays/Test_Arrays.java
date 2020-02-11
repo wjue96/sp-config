@@ -14,6 +14,7 @@ public class Test_Arrays {
 		//method();//测试sort
 		System.out.println("2222");
 		method1();
+		//method1();
 		System.out.println("11111");
 	}
 
